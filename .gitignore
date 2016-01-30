@@ -31,3 +31,4 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+example-3/node_modules/ansi-regex example-3/node_modules/ansi-styles example-3/node_modules/chalk example-3/node_modules/escape-string-regexp example-3/node_modules/has-ansi example-3/node_modules/strip-ansi example-3/node_modules/supports-color
